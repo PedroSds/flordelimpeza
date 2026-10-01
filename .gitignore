@@ -1,0 +1,9 @@
+# Arquivos temporários e capturas de tela locais
+captura-*.png
+mockup-completo.png
+capture_all.js
+PREVIA-*.html
+PROMPT-*.txt
+node_modules/
+.DS_Store
+Thumbs.db
